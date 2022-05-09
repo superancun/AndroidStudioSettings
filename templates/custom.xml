@@ -1,0 +1,84 @@
+<templateSet group="custom">
+  <template name="cmt" value="/**&#10; *  $desc$&#10; *  at $data$ $time$&#10; *  by ancun&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="cmtt" value="/////////////////////////////// $desc$ ///////////////////////////////&#10; " description="行注释" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lle" value="Timber.tag(&quot;$curclass$&quot;).w(&quot;$desc$  &quot;);" description="log.e" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="iid" value="android:id=&quot;@+id/$id$&quot;" description="控件id" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="ml" value="if (MLog.debug) {&#10;    MLog.e(&quot;$curclass$&quot;,&quot;$desc$&quot;);&#10;}" description="MLog.e();" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cmtclass" value="/**&#10; * Description:    $desc$&#10; * Author:         Ancun&#10; * CreateDate:     $DATE$ $TIME$&#10; * Version:        1.0&#10; */" description="类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="gg" value="/**&#10; *  $cursor$&#10; */" description="zhushi" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String args[]) {&#10;    $cursor$&#10;}" description="main()" toReformat="false" toShortenFQNames="true">
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mll" value="MLog.e(&quot;$curclass$&quot;,&quot;$desc$ : + $cursor$&quot;);" description="MLog.e()" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lld" value="if (BuildConfig.DEBUG) {&#10;    Log.e(&quot;$curclass$&quot;,&quot;$desc$  &quot;);&#10;}" description="if - log.e()" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lll" value="if (BuildConfig.DEBUG) {&#10;    Timber.e(&quot;$desc$  &quot;);&#10;}" description="if - Timber.e()" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lllt" value="Timber.tag(&quot;$curclass$&quot;).e(&quot;$desc$  &quot;);&#10;" description="if - Timber.tag().e()" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

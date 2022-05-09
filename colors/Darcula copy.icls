@@ -1,0 +1,57 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5388b9" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="9c27b0" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="70bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0006" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="48bb31" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbb23" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

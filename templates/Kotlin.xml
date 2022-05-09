@@ -1,0 +1,5 @@
+<templateSet group="Kotlin">
+  <template name="sout" value="println(&quot;$END$&quot;)" description="Prints a string to System.out" toReformat="true" toShortenFQNames="false">
+    <context />
+  </template>
+</templateSet>

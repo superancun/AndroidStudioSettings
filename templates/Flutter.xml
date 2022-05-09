@@ -1,0 +1,7 @@
+<templateSet group="Flutter">
+  <template name="runapp" value="void main() {&#10;  runApp($END$);&#10;}" description="runApp()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

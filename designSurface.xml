@@ -1,0 +1,104 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/drawable/shape_splash_common.xml" value="0.5515625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/activity_addition.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/activity_address_add.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/activity_address_manager.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/activity_login.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/activity_main_view.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/dialog_exit_app.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/fragment_blind_box.xml" value="0.52890625" />
+        <entry key="..\:/apps/cn/blind_box_dev/app/src/main/res/layout/layout_box_action.xml" value="0.52890625" />
+        <entry key="..\:/apps/github/AndroidUtilCode/feature/utilcode/pkg/src/main/res/layout/bar_status_image_view_activity.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/AppLovin-MAX-SDK-Android/AppLovin MAX Demo App - Java/app/src/main/res/layout/activity_interstitial_manual_loading.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/AppLovin-MAX-SDK-Android/AppLovin MAX Demo App - Java/app/src/main/res/layout/activity_native_template.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/AppLovin-MAX-SDK-Android/AppLovin MAX Demo App - Java/app/src/main/res/menu/menu_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/MultiSnapRecyclerView/app/src/main/res/layout/activity_horizontal.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/MultiSnapRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/MultiSnapRecyclerView/app/src/main/res/layout/item_horizontal.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/MultiSnapRecyclerView/app/src/main/res/layout/item_vertical.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/StringFog/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/retrofit-helper/sample/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="..\:/apps/github/tradplus-androidx-demo-main/tradplus-androidx-demo-main/TradPlusAndroidDemo/app/src/main/res/layout/activity_banner.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/tradplus-androidx-demo-main/tradplus-androidx-demo-main/TradPlusAndroidDemo/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/tradplus-androidx-demo-main/tradplus-androidx-demo-main/TradPlusAndroidDemo/app/src/main/res/layout/activity_native.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/tradplus-androidx-demo-main/tradplus-androidx-demo-main/TradPlusAndroidDemo/app/src/main/res/layout/activity_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/tradplus-androidx-demo-main/tradplus-androidx-demo-main/TradPlusAndroidDemo/app/src/main/res/layout/tp_native_ad_list_item.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/github/tradplus-androidx-demo-main/tradplus-androidx-demo-main/TradPlusAndroidDemo/app/src/main/res/layout/tp_native_banner_ad_unit.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app-ad/src/main/res/layout/max_native_ad_view.xml" value="0.1" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app-ad/src/main/res/layout/tp_native_ad_list_item.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app-ad/src/main/res/layout/tp_native_banner_ad_unit.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable-xxhdpi/side_nav_bar.xml" value="0.34629629629629627" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/background_test_button.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_action_done.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_add_white_24dp.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_app_icon.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_attach_money_black_24dp.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_attach_money_white_24dp.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_close_grey_800_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_copy_white.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_description_black_24dp.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_edit_black_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_fab_check.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_image_photo.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_outline_settings_24.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_power.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_qu_scan_black_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_qu_settings_black_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_qu_switch_black_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_rounded_corner_grey.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_rounded_corner_theme.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_save_white_24dp.xml" value="0.36205128205128206" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_share_black_24dp.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_shortcut_background.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_v.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_v_connected_black.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/ic_v_idle.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/shape_shortcut_bg.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/drawable/shape_splash_common.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_bypass_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_loading.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_lucky.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_none.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_routing_settings.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_server_custom_config.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_server_shadowsocks.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_server_socks.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_server_vmess.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_settings.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_splash.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_sub_setting.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/activity_tasker.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/dialog_connect_vpn.xml" value="0.1" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/dialog_loading_ad.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/dialog_lucky_result.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/fragment_routing_settings.xml" value="0.1" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/item_recycler_footer.xml" value="0.3484375" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/item_recycler_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/layout/widget_switch.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/menu/action_server.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/menu/action_sub_setting.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/menu/menu_main.xml" value="0.34717948717948716" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/my/vpn/V2rayNG/app/src/main/res/xml/pref_settings.xml" value="0.1" />
+        <entry key="..\:/apps/study/java/LayoutInspectorDemo1/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/study/java/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/study/kt/demo1/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/apps/uniapp/QMLMH_Android_2/app/src/main/res/drawable/shape_dialog_bg4.xml" value="0.36770833333333336" />
+        <entry key="..\:/apps/uniapp/QMLMH_Android_2/app/src/main/res/layout/activity_ad_proxy.xml" value="0.17147922998986828" />
+        <entry key="..\:/apps/uniapp/QMLMH_Android_2/app/src/main/res/layout/activity_startup.xml" value="0.17147922998986828" />
+        <entry key="..\:/apps/uniapp/QMLMH_Android_2/app/src/main/res/layout/view_login_one_key.xml" value="0.35260416666666666" />
+        <entry key="..\:/flutter/demo/FlutterDemo1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
