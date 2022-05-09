@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tight" />
       <item value="Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
       <item value="Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget." />
       <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent." />
@@ -50,7 +51,6 @@
       <item value="Start the dialog and display it on screen. The window is placed in the application layer and opaque. Note that you should not override this method to do initialization when the dialog is shown, instead implement that in {@link onStart}." />
       <item value="Destroy the child FragmentManager if we still have it here. This is normally done in performDestroy(), but is done here specifically if the Fragment is retained." />
       <item value="Check to see whether this activity is in the process of finishing, either because you called {@link finish} on it or someone else has requested that it finished. This is often used in {@link onPause} to determine whether the activity is simply pausing or completely finishing." />
-      <item value="Indicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true. Subclasses should check the return value of this method to provide different behaviors if their normal behavior might interfere with the host environment. For instance: the class spawns a thread in its constructor, the drawing code relies on device-specific features, etc. This method is usually checked in the drawing code of custom widgets. @return True if this View is in edit mode, false otherwise." />
     </histories>
     <option name="languageScores">
       <map>
