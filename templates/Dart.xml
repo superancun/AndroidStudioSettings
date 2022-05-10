@@ -1,7 +1,7 @@
 <templateSet group="Dart">
-  <template name="soutt" value="print(&quot;$curclass$, $desc$ : $$$END$&quot;);" description="dart log" toReformat="false" toShortenFQNames="true">
-    <variable name="curclass" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="desc" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+  <template name="soutt" value="print(&quot;$curclass$ | $desc$ : $$$END$&quot;);" description="dart log" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="dartClassName()" defaultValue="Class" alwaysStopAt="false" />
+    <variable name="desc" expression="dartMethodName()" defaultValue="Method" alwaysStopAt="false" />
     <context>
       <option name="DART" value="true" />
     </context>
