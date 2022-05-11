@@ -21,4 +21,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="text" value="Text(&quot;$END$&quot;)" description="Text" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
