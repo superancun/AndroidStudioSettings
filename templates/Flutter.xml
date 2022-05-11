@@ -16,4 +16,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="demo2" value="import 'package:flutter/material.dart';&#10;&#10;///////////////////////////////// SAMPLE CODE /////////////////////////////////&#10;&#10;void main() {&#10;  runApp(const MaterialApp(title: 'Sample App', home: HomePage()));&#10;}&#10;&#10;class HomePage extends StatelessWidget {&#10;  const HomePage({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Scaffold(&#10;      appBar: AppBar(&#10;        title: const Text('Demo Title'),&#10;      ),&#10;      body: Container($END$),&#10;    );&#10;  }&#10;}&#10;&#10;///////////////////////////////// SAMPLE CODE /////////////////////////////////" description="demo template 2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
