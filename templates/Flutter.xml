@@ -4,7 +4,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="lle" value="LogE(&quot;$curclass$, $desc$ : $$$END$&quot;);" description="log" toReformat="false" toShortenFQNames="true">
+  <template name="lle" value="LogE(&quot;$curclass$&quot;, &quot;$desc$ : $$$END$&quot;);" description="log" toReformat="false" toShortenFQNames="true">
     <variable name="curclass" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
     <variable name="desc" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -26,7 +26,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="llw" value="LogW(&quot;$curclass$, $desc$ : $$$END$&quot;);" description="log warn" toReformat="false" toShortenFQNames="true">
+  <template name="llw" value="LogW(&quot;$curclass$&quot;, &quot;$desc$ : $$$END$&quot;);" description="log warn" toReformat="false" toShortenFQNames="true">
     <variable name="curclass" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
     <variable name="desc" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
     <context>
