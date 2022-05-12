@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If non-null, sets its width to the child's width multiplied by this factor. Can be both greater and less than 1.0 but must be non-negative." />
       <item value="This is the same as `contain` if that would shrink the image, otherwise it is the same as `none`." />
       <item value="If non-null, require the image to have this width. If null, the image will pick a size that best preserves its intrinsic aspect ratio. It is strongly recommended that either both the [width] and the [height] be specified, or that the widget be placed in a context that sets tight layout constraints, so that the image does not change size as it loads. Consider using [fit] to adapt the image's rendering to fit the given width and height if the exact image dimensions are not known in advance." />
       <item value="Called whenever the widget configuration changes. If the parent widget rebuilds and request that this location in the tree update to display a new widget with the same [runtimeType] and [Widget.key], the framework will update the [widget] property of this [State] object to refer to the new widget and then call this method with the previous widget as an argument. Override this method to respond when the [widget] changes (e.g., to start implicit animations). The framework always calls [build] after calling [didUpdateWidget], which means any calls to [setState] in [didUpdateWidget] are redundant. {@macro flutter.widgets.State.initState} Implementations of this method should start with a call to the inherited method, as in `super.didUpdateWidget(oldWidget)`." />
@@ -50,7 +51,6 @@
       <item value="Rounding mode where positive values are rounded towards positive infinity and negative values towards negative infinity." />
       <item value="Rounding mode where positive values are rounded towards positive infinity and negative values towards negative infinity. @see RoundingModeUP" />
       <item value="Rounding mode to round towards negative infinity. For positive values this rounding mode behaves as {@link ROUND_DOWN}, for negative values as {@link ROUND_UP}." />
-      <item value="Retrieve the current decor view, but only if it has already been created; otherwise returns null. @return Returns the top-level window decor or null. @see getDecorView" />
     </histories>
     <option name="languageScores">
       <map>
