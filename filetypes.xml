@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="20021_1" type="Native" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
