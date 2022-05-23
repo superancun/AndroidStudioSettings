@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@template riverpod.stateprovider.notifier} Obtains the [StateController] associated with this provider, but without listening to it. Listening to this provider may cause providerswidgets to rebuild in the event that the [StateController] it recreated. It is preferable to do: ```dart ref.watch(stateProvider.notifier) ``` instead of: ```dart ref.read(stateProvider) ``` The reasoning is, using `read` could cause hard to catch bugs, such as not rebuilding dependent providerswidgets after using `ref.refresh` on this provider. {@endtemplate}" />
       <item value="anti-pattern" />
       <item value="CONSIDER" />
       <item value="This has the same efficiency as the previous anti-pattern, but does not suffer from the drawback of being brittle." />
@@ -50,7 +51,6 @@
       <item value="@return {@link getBindingAdapterPosition()} @deprecated This method is confusing when adapters nest other adapters. If you are calling this in the context of an Adapter, you probably want to call {@link getBindingAdapterPosition()} or if you want the position as {@link RecyclerView} sees it, you should call {@link getAbsoluteAdapterPosition()}." />
       <item value="This is called during layout when the size of this view has changed. If you were just added to the view hierarchy, you're called with the old values of 0." />
       <item value="This class represents a Network Interface made up of a name, and a list of IP addresses assigned to this interface. It is used to identify the local interface on which a multicast group is joined. Interfaces are normally known by names such as &quot;le0&quot;." />
-      <item value="Android-note: NetworkInterface has been rewritten to avoid native code. Fix upstream bug not returning link-down interfaces. http:b26238832" />
     </histories>
     <option name="languageScores">
       <map>
