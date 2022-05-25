@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If a [Navigator] is created, at least one of these options must handle the `` route, since it is used when an invalid [initialRoute] is specified on startup (e.g. by another application launching this one with an intent on Android; see [dart:ui.PlatformDispatcher.defaultRouteName])." />
       <item value="All restorable properties must be registered with the mixin. After registration, the counter either has its old value restored or is initialized to its default value." />
       <item value="In this example, the restoration ID for the mixin is passed in through the [StatefulWidget]'s constructor." />
       <item value="A property that has been registered outside of [restoreState] must be re-registered within [restoreState] the next time that method is called unless it has been unregistered with [unregisterFromRestoration]." />
@@ -50,7 +51,6 @@
       <item value="Replaces each substring of this string that matches the literal target sequence with the specified literal replacement sequence. The replacement proceeds from the beginning of the string to the end, for example, replacing &quot;aa&quot; with &quot;b&quot; in the string &quot;aaa&quot; will result in &quot;ba&quot; rather than &quot;ab&quot;." />
       <item value="Set the alpha component of {@code color} to be {@code alpha}." />
       <item value="Return true if the fragment is in the resumed state. This is true for the duration of {@link onResume()} and {@link onPause()} as well." />
-      <item value="Broadcast Action: The current time has changed. Sent every minute. You &lt;em&gt;cannot&lt;em&gt; receive this through components declared in manifests, only by explicitly registering for it with {@link ContextregisterReceiver(BroadcastReceiver, IntentFilter) Context.registerReceiver()}. &lt;p class=&quot;note&quot;&gt;This is a protected intent that can only be sent by the system." />
     </histories>
     <option name="languageScores">
       <map>
