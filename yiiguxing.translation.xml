@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the extentAfter distance of trigger loading" />
       <item value="The boundary is located at the bottom edge and stops when inertia rolls under the boundary distance" />
       <item value="A constant that is true if the application was compiled to run on the web. This implementation takes advantage of the fact that JavaScript does not support integers. In this environment, Dart's doubles and ints are backed by the same kind of object. Thus a double `0.0` is identical to an integer `0`. This is not true for Dart code running in AOT or on the VM." />
       <item value="Pop the current route off the navigator that most tightly encloses the given context and push a named route in its place." />
@@ -50,7 +51,6 @@
       <item value="Center is a layout widget. It takes a single child and positions it in the middle of the parent." />
       <item value="Here we take the value from the MyHomePage object that was created by the App.build method, and use it to set our appbar title." />
       <item value="This method is rerun every time setState is called, for instance as done by the _incrementCounter method above. The Flutter framework has been optimized to make rerunning build methods fast, so that you can just rebuild anything that needs updating rather than having to individually change instances of widgets." />
-      <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
     </histories>
     <option name="languageScores">
       <map>
