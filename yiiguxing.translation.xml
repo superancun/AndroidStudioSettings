@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Push the route with the given name onto the navigator that most tightly encloses the given context, and then remove all the previous routes until the `predicate` returns true." />
       <item value="A piece of material." />
       <item value="the extentAfter distance of trigger loading" />
       <item value="The boundary is located at the bottom edge and stops when inertia rolls under the boundary distance" />
@@ -50,7 +51,6 @@
       <item value="Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget." />
       <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent." />
       <item value="Center is a layout widget. It takes a single child and positions it in the middle of the parent." />
-      <item value="Here we take the value from the MyHomePage object that was created by the App.build method, and use it to set our appbar title." />
     </histories>
     <option name="languageScores">
       <map>
