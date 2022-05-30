@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The boundary is located at the bottom edge and stops when inertia rolls under the boundary distance" />
       <item value="A constant that is true if the application was compiled to run on the web. This implementation takes advantage of the fact that JavaScript does not support integers. In this environment, Dart's doubles and ints are backed by the same kind of object. Thus a double `0.0` is identical to an integer `0`. This is not true for Dart code running in AOT or on the VM." />
       <item value="Pop the current route off the navigator that most tightly encloses the given context and push a named route in its place." />
       <item value="Switches themes for this {@code Activity} from the theme used to launch this {@code Activity} to a &quot;normal theme&quot; that is intended for regular {@code Activity} operation. &lt;p&gt;This behavior is offered so that a &quot;launch screen&quot; can be displayed while the application initially loads. To utilize this behavior in an app, do the following: &lt;ol&gt; &lt;li&gt;Create 2 different themes in style.xml: one theme for the launch screen and one theme for normal display. &lt;li&gt;In the launch screen theme, set the &quot;windowBackground&quot; property to a {@code Drawable} of your choice. &lt;li&gt;In the normal theme, customize however you'd like. &lt;li&gt;In the AndroidManifest.xml, set the theme of your {@code FlutterActivity} to your launch theme. &lt;li&gt;Add a {@code &lt;meta-data&gt;} property to your {@code FlutterActivity} with a name of &quot;io.flutter.embedding.android.NormalTheme&quot; and set the resource to your normal theme, e.g., {@code android:resource=&quot;@styleMyNormalTheme}. &lt;ol&gt; With the above settings, your launch theme will be used when loading the app, and then the theme will be switched to your normal theme once the app has initialized. &lt;p&gt;Do not change aspects of system chrome between a launch theme and normal theme. Either define both themes to be fullscreen or not, and define both themes to display the same status bar and navigation bar settings. If you wish to adjust system chrome once your Flutter app renders, use platform channels to instruct Android to do so at the appropriate time. This will avoid any jarring visual changes during app startup." />
@@ -50,7 +51,6 @@
       <item value="Here we take the value from the MyHomePage object that was created by the App.build method, and use it to set our appbar title." />
       <item value="This method is rerun every time setState is called, for instance as done by the _incrementCounter method above. The Flutter framework has been optimized to make rerunning build methods fast, so that you can just rebuild anything that needs updating rather than having to individually change instances of widgets." />
       <item value="This call to setState tells the Flutter framework that something has changed in this State, which causes it to rerun the build method below so that the display can reflect the updated values. If we changed _counter without calling setState(), then the build method would not be called again, and so nothing would appear to happen." />
-      <item value="This widget is the home page of your application. It is stateful, meaning that it has a State object (defined below) that contains fields that affect how it looks. This class is the configuration for the state. It holds the values (in this case the title) provided by the parent (in this case the App widget) and used by the build method of the State. Fields in a Widget subclass are always marked &quot;final&quot;." />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653275230472" />
+    <option name="lastTrimTime" value="1653879608665" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
