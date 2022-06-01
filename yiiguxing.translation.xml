@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recharge" />
       <item value="To remove routes until a route with a certain name, use the [RoutePredicate] returned from [ModalRoute.withName]. To remove all the routes below the pushed route, use a [RoutePredicate] that always returns false (e.g. `(Route&lt;dynamic&gt; route) =&gt; false`)." />
       <item value="Push the route with the given name onto the navigator that most tightly encloses the given context, and then remove all the previous routes until the `predicate` returns true." />
       <item value="A piece of material." />
@@ -50,7 +51,6 @@
       <item value="tight" />
       <item value="Column has various properties to control how it sizes itself and how it positions its children. Here we use mainAxisAlignment to center the children vertically; the main axis here is the vertical axis because Columns are vertical (the cross axis would be horizontal)." />
       <item value="Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code) to see the wireframe for each widget." />
-      <item value="Column is also a layout widget. It takes a list of children and arranges them vertically. By default, it sizes itself to fit its children horizontally, and tries to be as tall as its parent." />
     </histories>
     <option name="languageScores">
       <map>
