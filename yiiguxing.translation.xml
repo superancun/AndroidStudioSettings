@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the value to return from the method invocation on the proxy instance. If the declared return type of the interface method is a primitive type, then the value returned by this method must be an instance of the corresponding primitive wrapper class; otherwise, it must be a type assignable to the declared return type. If the value returned by this method is {@code null} and the interface method's return type is primitive, then a {@code NullPointerException} will be thrown by the method invocation on the proxy instance. If the value returned by this method is otherwise not compatible with the interface method's declared return type as described above, a {@code ClassCastException} will be thrown by the method invocation on the proxy instance." />
       <item value="Whether the `newWidget` can be used to update an [Element] that currently has the `oldWidget` as its configuration." />
       <item value="Override this method to respond when the [widget] changes (e.g., to start implicit animations)." />
       <item value="Implementations of this method should start with a call to the inherited method, as in `super.didUpdateWidget(oldWidget)`." />
@@ -50,7 +51,6 @@
       <item value="as performant as the previous solution, but resilient to refactoring" />
       <item value="Returns a modifiable list of interceptors that observe the full span of each call: from before the connection is established (if any) until after the response source is selected (either the origin server, cache, or both)." />
       <item value="Returns a modifiable list of interceptors that observe a single network request and response. These interceptors must call {@link Interceptor.Chainproceed} exactly once: it is an error for a network interceptor to short-circuit or repeat a network request." />
-      <item value="Converts [value] to a JSON string. If value contains objects that are not directly encodable to a JSON string (a value that is not a number, boolean, string, null, list or a map with string keys), the [toEncodable] function is used to convert it to an object that must be directly encodable. If [toEncodable] is omitted, it defaults to a function that returns the result of calling `.toJson()` on the unencodable object." />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654507854653" />
+    <option name="lastTrimTime" value="1655436721463" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
