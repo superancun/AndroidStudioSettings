@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the smallest (closest to negative infinity) {@code double} value that is greater than or equal to the argument and is equal to a mathematical integer. Special cases: &lt;ul&gt;&lt;li&gt;If the argument value is already equal to a mathematical integer, then the result is the same as the argument. &lt;li&gt;If the argument is NaN or an infinity or positive zero or negative zero, then the result is the same as the argument. &lt;li&gt;If the argument value is less than zero but greater than -1.0, then the result is negative zero.&lt;ul&gt; Note that the value of {@code Math.ceil(x)} is exactly the value of {@code -Math.floor(-x)}." />
       <item value="Determines the interfaces implemented by the class or interface represented by this object." />
       <item value="the value to return from the method invocation on the proxy instance. If the declared return type of the interface method is a primitive type, then the value returned by this method must be an instance of the corresponding primitive wrapper class; otherwise, it must be a type assignable to the declared return type. If the value returned by this method is {@code null} and the interface method's return type is primitive, then a {@code NullPointerException} will be thrown by the method invocation on the proxy instance. If the value returned by this method is otherwise not compatible with the interface method's declared return type as described above, a {@code ClassCastException} will be thrown by the method invocation on the proxy instance." />
       <item value="Whether the `newWidget` can be used to update an [Element] that currently has the `oldWidget` as its configuration." />
@@ -50,7 +51,6 @@
       <item value="This has the same efficiency as the previous anti-pattern, but does not suffer from the drawback of being brittle." />
       <item value="Reads a provider without listening to it. AVOID calling [read] inside build if the value is used only for events: ```dart Widget build(BuildContext context) { counter is used only for the onPressed of RaisedButton final counter = ref.read(counterProvider); return RaisedButton( onPressed: () =&gt; counter.increment(), ); } ``` While this code is not bugged in itself, this is an anti-pattern. It could easily lead to bugs in the future after refactoring the widget to use `counter` for other things, but forget to change [read] into [Consumer]`ref.watch(`. CONSIDER calling [read] inside event handlers: ```dart Widget build(BuildContext context) { return RaisedButton( onPressed: () { as performant as the previous solution, but resilient to refactoring ref.read(counterProvider).increment(), }, ); } ```" />
       <item value="as performant as the previous solution, but resilient to refactoring" />
-      <item value="Returns a modifiable list of interceptors that observe the full span of each call: from before the connection is established (if any) until after the response source is selected (either the origin server, cache, or both)." />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655436721463" />
+    <option name="lastTrimTime" value="1658302453357" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
