@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new context wrapper with no theme and no base context. &lt;p class=&quot;note&quot;&gt; &lt;strong&gt;Note:&lt;strong&gt; A base context &lt;strong&gt;must&lt;strong&gt; be attached using {@link attachBaseContext(Context)} before calling any other method on the newly constructed context wrapper." />
+      <item value="Proxying implementation of Context that simply delegates all of its calls to another Context. Can be subclassed to modify behavior without changing the original Context." />
+      <item value="Interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc." />
       <item value="Copies all of the mappings from the specified map to this map. These mappings will replace any mappings that this map had for any of the keys currently in the specified map." />
       <item value="Sets the value of the {@code ifModifiedSince} field of this {@code URLConnection} to the specified value. @param ifmodifiedsince the new value. @throws IllegalStateException if already connected @see getIfModifiedSince()" />
       <item value="Returns a {@link java.net.URLConnection URLConnection} instance that represents a connection to the remote object referred to by the {@code URL}. &lt;P&gt;A new instance of {@linkplain java.net.URLConnection URLConnection} is created every time when invoking the {@linkplain java.net.URLStreamHandleropenConnection(URL) URLStreamHandler.openConnection(URL)} method of the protocol handler for this URL.&lt;P&gt; &lt;P&gt;It should be noted that a URLConnection instance does not establish the actual network connection on creation. This will happen only when calling {@linkplain java.net.URLConnectionconnect() URLConnection.connect()}.&lt;P&gt; &lt;P&gt;If for the URL's protocol (such as HTTP or JAR), there exists a public, specialized URLConnection subclass belonging to one of the following packages or one of their subpackages: java.lang, java.io, java.util, java.net, the connection returned will be of that subclass. For example, for HTTP an HttpURLConnection will be returned, and for JAR a JarURLConnection will be returned.&lt;P&gt;" />
@@ -48,9 +51,6 @@
       <item value="All restorable properties must be registered with the mixin. After registration, the counter either has its old value restored or is initialized to its default value." />
       <item value="In this example, the restoration ID for the mixin is passed in through the [StatefulWidget]'s constructor." />
       <item value="A property that has been registered outside of [restoreState] must be re-registered within [restoreState] the next time that method is called unless it has been unregistered with [unregisterFromRestoration]." />
-      <item value="The current value of the counter is stored in a [RestorableProperty]. During state restoration it is automatically restored to its old value. If no restoration data is available to restore the counter from, it is initialized to the specified default value of zero." />
-      <item value="The [State] object uses the [RestorationMixin] to make the current value of the counter restorable." />
-      <item value="Denotes that the request body will use form URL encoding. Fields should be declared as parameters and annotated with {@link Field @Field}. &lt;p&gt; Requests made with this annotation will have {@code applicationx-www-form-urlencoded} MIME type. Field names and values will be UTF-8 encoded before being URI-encoded in accordance to &lt;a href=&quot;http:tools.ietf.orghtmlrfc3986&quot;&gt;RFC-3986&lt;a&gt;." />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658816031656" />
+    <option name="lastTrimTime" value="1659496450482" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
