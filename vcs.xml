@@ -254,6 +254,10 @@
           <option name="url" value="https://github.com/LCHINA/oaid_helper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://121.4.139.140" />
+          <option name="userName" value="hac" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\apps\github" />
