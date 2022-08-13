@@ -32,8 +32,14 @@
         <entry key="..\:/apps/lib/message/app/src/main/res/layout/activity_main.xml" value="0.20625" />
         <entry key="..\:/apps/lib/tianji_sdk/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/apps/lib/tianji_sdk_demo/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/gnt_am_fullscreen_template_view.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/gnt_fb_fullscreen_template_view.xml" value="0.35260416666666666" />
         <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/layout_interstitial_for_banner.xml" value="0.35260416666666666" />
         <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/layout_interstitial_for_native.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/max_native_ad_view.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/tp_fullscreen_template_view.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/tp_native_ad_list_item.xml" value="0.35260416666666666" />
+        <entry key="..\:/apps/my/caller_id/app-ad/src/main/res/layout/tp_native_banner_ad_unit.xml" value="0.1" />
         <entry key="..\:/apps/my/vpn/V2rayNG/app-ad/src/main/res/layout/max_native_ad_view.xml" value="0.1" />
         <entry key="..\:/apps/my/vpn/V2rayNG/app-ad/src/main/res/layout/tp_native_ad_list_item.xml" value="0.35260416666666666" />
         <entry key="..\:/apps/my/vpn/V2rayNG/app-ad/src/main/res/layout/tp_native_banner_ad_unit.xml" value="0.35260416666666666" />
