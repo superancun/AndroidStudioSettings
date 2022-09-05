@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following defines the version and build number for your application. A version number is three numbers separated by dots, like 1.2.43 followed by an optional build number separated by a +. Both the version and the builder number may be overridden in flutter build by specifying --build-name and --build-number, respectively. In Android, build-name is used as versionName while build-number used as versionCode. Read more about Android versioning at https:developer.android.comstudiopublishversioning In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion. Read more about iOS versioning at https:developer.apple.comlibraryarchivedocumentationGeneralReferenceInfoPlistKeyReferenceArticlesCoreFoundationKeys.html In Windows, build-name is used as the major, minor, and patch parts of the product and file versions while build-number is used as the build suffix." />
       <item value="Creates a new context wrapper with no theme and no base context. &lt;p class=&quot;note&quot;&gt; &lt;strong&gt;Note:&lt;strong&gt; A base context &lt;strong&gt;must&lt;strong&gt; be attached using {@link attachBaseContext(Context)} before calling any other method on the newly constructed context wrapper." />
       <item value="Proxying implementation of Context that simply delegates all of its calls to another Context. Can be subclassed to modify behavior without changing the original Context." />
       <item value="Interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc." />
@@ -50,7 +51,6 @@
       <item value="If a [Navigator] is created, at least one of these options must handle the `` route, since it is used when an invalid [initialRoute] is specified on startup (e.g. by another application launching this one with an intent on Android; see [dart:ui.PlatformDispatcher.defaultRouteName])." />
       <item value="All restorable properties must be registered with the mixin. After registration, the counter either has its old value restored or is initialized to its default value." />
       <item value="In this example, the restoration ID for the mixin is passed in through the [StatefulWidget]'s constructor." />
-      <item value="A property that has been registered outside of [restoreState] must be re-registered within [restoreState] the next time that method is called unless it has been unregistered with [unregisterFromRestoration]." />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,7 +60,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659496450482" />
+    <option name="lastTrimTime" value="1662347140769" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
