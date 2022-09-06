@@ -118,6 +118,10 @@
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="object" />
+        </TemplateKey>
       </list>
     </option>
   </component>

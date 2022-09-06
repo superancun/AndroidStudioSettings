@@ -2,4 +2,9 @@
   <template name="sout" value="println(&quot;$END$&quot;)" description="Prints a string to System.out" toReformat="true" toShortenFQNames="false">
     <context />
   </template>
+  <template name="whenn" value="when (obj) {&#10;    $END$ -&gt; 0&#10;    else -&gt; 0&#10;}" description="when" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
