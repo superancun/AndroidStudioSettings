@@ -81,4 +81,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="llw" value="Timber.tag(&quot;$curclass$&quot;).w(&quot;$desc$  &quot;)" description="log warn" toReformat="false" toShortenFQNames="true">
+    <variable name="curclass" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
