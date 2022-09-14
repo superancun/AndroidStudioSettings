@@ -81,9 +81,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="llw" value="Timber.tag(&quot;$curclass$&quot;).w(&quot;$desc$  &quot;)" description="log warn" toReformat="false" toShortenFQNames="true">
+  <template name="llw" value="Timber.tag(&quot;$curclass$&quot;).w(&quot;$desc$ | $EXPR_COPY$ = $DOLLAR${$EXPR$}&quot;)" description="log warn" toReformat="false" toShortenFQNames="true">
     <variable name="curclass" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
     <variable name="desc" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <variable name="DOLLAR" expression="" defaultValue="&quot;$&quot;" alwaysStopAt="false" />
+    <variable name="EXPR" expression="kotlinVariable()" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
